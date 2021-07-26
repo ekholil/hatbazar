@@ -1,0 +1,49 @@
+.top-bar{
+    display: flex;
+    color: #DC3545;
+    justify-content: space-between;
+    padding: 8px 15px;
+    flex-wrap: wrap;
+}
+.top-bar a{
+    text-decoration: none;
+    color: #DC3545;
+}
+.btn-color{
+    background-color: #DC3545;
+    color: #fff;
+}
+.text-color{
+    color: #DC3545;
+}
+.green-btn{
+    background-color: green;
+    color: #fff;
+    transition: .3s ease;
+}
+.green-btn:hover{
+    background-color: #DC3545;
+    color: #fff;
+}
+.cards{
+    transition: .4s ease-in;
+    width: 80%;
+}
+.cards:hover{
+    transform: scale(1.1);
+}
+.user{
+    font-size: 2rem;
+    border: none;
+    padding: 10px;
+    border-radius: 50%;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
